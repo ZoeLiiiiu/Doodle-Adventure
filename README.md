@@ -16,3 +16,5 @@ Shortcut Command
 1.	Press “p” to pause the game
 2.	Press “m” to generate a monster
 3.	Press “w” to trigger the winning condition
+
+Video Demo: https://youtu.be/OSVZMkGaI48
